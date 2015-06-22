@@ -15,7 +15,7 @@ a
 
 a:link
 {
-	color: #2d82dc;	
+	color: #2d82dc;
 }
 
 a:visited
@@ -267,6 +267,7 @@ p
 {
 	margin-bottom: 8px;
 	margin-top: 8px;
+	text-indent: 50px;
 }
 
 p.CompanyInformation1
@@ -503,9 +504,9 @@ ul.SecondLevel
 div.sideContent
 {
 	float: right;
-    margin-left: 10px;
+	margin-left: 10px;
 	margin-bottom: 10px;
-    width: 33.33%;
+	width: 33.33%;
 }
 
 html.templateTopic div.sideContent
@@ -515,5 +516,25 @@ html.templateTopic div.sideContent
 
 html.pulseTopic .main-section .row.outer-row
 {
-    padding: 0;
+	padding: 0;
 }
+
+h2.center
+{
+	font-size: 1.3em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+h1.center
+{
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-bottom: 8px;
+	margin-top: 20px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
