@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -538,3 +538,9 @@ h1.center
 	text-align: center;
 }
 
+td p
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	text-indent: 0px;
+}
